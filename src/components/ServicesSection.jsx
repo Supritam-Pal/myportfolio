@@ -96,15 +96,12 @@ const ServicesSection = () => {
     </li>
 
     <li>
-    <span> NETFLIX 2020 :</span>
-    <a href="https://supritam-pal.github.io/Netflix_2020/" target="_blank"><button>Project Link</button> </a>
-    <span><a href="https://github.com/Supritam-Pal/Netflix_2020"><button>SourceCode</button></a></span>
+    <span> Weather App :</span>
+    <a href="https://reactjs-weatherofworld.netlify.app/" target="_blank"><button>Project Link</button> </a>
+    <span><a href="https://github.com/Supritam-Pal/weather_app"><button>SourceCode</button></a></span>
     </li>
 
-    <li>
-    <span> EMOJI INTERPRETER :</span>
-    <a href="https://kwqkc6.csb.app/" target="_blank"><button>Project Link</button> </a>
-    </li>
+
 
   </ol>
   </div>
